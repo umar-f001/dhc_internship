@@ -84,11 +84,8 @@ cd your-repo-name
 ```
 
 
-
-```
-
 2. **Set Up a Virtual Environment:**
-   ```bash
+```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
@@ -100,18 +97,14 @@ pip install -r requirements.txt
 
 ```
 
-
-
-```
    *(Ensure you install standard packages: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `yfinance`, `statsmodels`, `transformers`, `torch`, `streamlit`, `langchain`)*
 
 4. **Run the Streamlit Chatbot (Task 5):**
-   ```bash
+```bash
 streamlit run chatbot_app.py
 
 ```
 
----
 
 ## 📜 Disclaimer
 
