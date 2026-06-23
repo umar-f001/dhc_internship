@@ -78,7 +78,7 @@ Follow these instructions to clone and run the notebooks or application componen
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/umar-f001/dhc_internship.git
 cd your-repo-name
 
 ```
@@ -86,8 +86,8 @@ cd your-repo-name
 
 2. **Set Up a Virtual Environment:**
 ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   python -m venv
+   source venv\Scripts\activate
 
 ```
 
@@ -98,12 +98,6 @@ pip install -r requirements.txt
 ```
 
    *(Ensure you install standard packages: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `yfinance`, `statsmodels`, `transformers`, `torch`, `streamlit`, `langchain`)*
-
-4. **Run the Streamlit Chatbot (Task 5):**
-```bash
-streamlit run chatbot_app.py
-
-```
 
 
 ## 📜 Disclaimer
