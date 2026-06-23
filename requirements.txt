@@ -1,0 +1,28 @@
+# Data Manipulation & Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Financial Data & Time Series Forecasting
+yfinance
+statsmodels
+
+# Classical Machine Learning & Evaluation
+scikit-learn
+
+# Deep Learning & Conversational AI Frameworks
+torch
+transformers
+datasets
+
+# Health Chatbot (LLM Orchestration & API Wrapper)
+langchain
+langchain-community
+langchain-openrouter
+
+
+# Web Deployment UI
+streamlit
