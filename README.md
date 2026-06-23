@@ -79,7 +79,6 @@ Follow these instructions to clone and run the notebooks or application componen
 1. **Clone the Repository:**
 ```bash
 git clone https://github.com/umar-f001/dhc_internship.git
-cd your-repo-name
 
 ```
 
